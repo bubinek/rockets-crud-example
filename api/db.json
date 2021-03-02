@@ -1,0 +1,164 @@
+{
+  "rockets": [
+    {
+      "id": "fb302c5e-7ac8-11eb-9439-0242ac130002",
+      "name": "Saturn V",
+      "height": "110.6 meters (363 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb302e7a-7ac8-11eb-9439-0242ac130002",
+      "name": "N1",
+      "height": "105 meters (344 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb302f7e-7ac8-11eb-9439-0242ac130002",
+      "name": "Ares I-X",
+      "height": "94.2 meters (309 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb303212-7ac8-11eb-9439-0242ac130002",
+      "name": "Delta IV Heavy",
+      "height": "72 meters (236 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb3032e4-7ac8-11eb-9439-0242ac130002",
+      "name": "Falcon Heavy",
+      "height": "70 meters (230 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb3033a2-7ac8-11eb-9439-0242ac130002",
+      "name": "Angara-A5",
+      "height": "64 meters (210 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb303460-7ac8-11eb-9439-0242ac130002",
+      "name": "Delta IV Medium",
+      "height": "62.50 meters (205.5 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb303514-7ac8-11eb-9439-0242ac130002",
+      "name": "Ariane 4",
+      "height": "58.72 meters (192.65 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb3035e6-7ac8-11eb-9439-0242ac130002",
+      "name": "Atlas V",
+      "height": "58.30 meters (191.27 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    },
+    {
+      "id": "fb30369a-7ac8-11eb-9439-0242ac130002",
+      "name": "Space Shuttle",
+      "height": "56.14 meters (184.2 feet)",
+      "attr3": "333",
+      "attr4": "444",
+      "attr5": "555",
+      "nestedAttr": {
+        "attr6": "666",
+        "attr7": "777",
+        "doubleNestedAttr": {
+          "attr8": "888",
+          "attr9": "999"
+        }
+      }
+    }
+  ]
+}

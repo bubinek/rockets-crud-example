@@ -1,24 +1,15 @@
-# test-example
+# 🚀 rockets-crud-example 🚀
 
-## Project setup
+## 🎉 Install
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 💎 Dev
 ```
-npm run serve
-```
+# mock backend (port 3001)
+npm run server
 
-### Compiles and minifies for production
+# run frontend (port 3000)
+npm run dev
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

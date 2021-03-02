@@ -1,28 +1,34 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+    <v-app>
+        <v-app-bar app color="black" dark>
+            <v-btn text exact :to="{name: 'RocketsList'}">
+                <v-icon v-text="'mdi-view-list'" class="mr-3" />
+                Rockets List
+            </v-btn>
+
+            <v-btn text exact :to="{name: 'RocketsCreate'}">
+                <v-icon v-text="'mdi-plus'" class="mr-3" />
+                Create Rocket
+            </v-btn>
+
+            <v-spacer />
+        </v-app-bar>
+
+        <v-main>
+            <v-container>
+                <router-view />
+            </v-container>
+        </v-main>
+    </v-app>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
-</script>
-
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+    .toasted-container {
+        font-family: "Roboto", sans-serif;
+        line-height: 1.5;
+    }
+
+    .toasted-container > .toasted.bubble {
+        font-size: 18px;
+    }
 </style>
